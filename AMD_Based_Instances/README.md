@@ -12,14 +12,14 @@
 
 # Table of Contents
 
-1. [Purpose](#purpose)
-2. [Overview of AMD-Based Instances](#overview-of-amd-based-instances)
-3. [AMD Instance Families](#amd-instance-families)
-4. [Cost–Performance Advantages](#costperformance-advantages)
-5. [Software Compatibility](#software-compatibility)
-6. [Recommended Usage Scenarios](#recommended-usage-scenarios)
-7. [Best Practices for Adoption](#best-practices-for-adoption)
-8. [Conclusion](#conclusion)
+1. [Purpose](#1-purpose)
+2. [Overview of AMD-Based Instances](#2-overview-of-amd-based-instances)
+3. [AMD Instance Families](#3-amd-instance-families)
+4. [Cost–Performance Advantages](#4-costperformance-advantages)
+5. [Software Compatibility](#5-software-compatibility)
+6. [Recommended Usage Scenarios](#6-recommended-usage-scenarios)
+7. [Best Practices for Adoption](#7-best-practices-for-adoption)
+8. [Conclusion](#8-conclusion)
 
 ---
 
