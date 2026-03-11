@@ -20,6 +20,7 @@
 6. [Recommended Usage Scenarios](#6-recommended-usage-scenarios)
 7. [Best Practices for Adoption](#7-best-practices-for-adoption)
 8. [Conclusion](#8-conclusion)
+9. [References](#9-references)
 
 ---
 
@@ -328,5 +329,14 @@ They are particularly effective for environments such as:
 * data processing systems
 
 By adopting AMD instances where appropriate, organizations can improve infrastructure efficiency while maintaining reliable performance for production workloads.
+
+---
+
+## 9. References
+
+| Reference                            | Link                                                                                                                                                                                                                               |
+| ------------------------------------ | ----------------------------------- |
+| AWS AMD-Based Instances | [https://aws.amazon.com/ec2/amd/](https://aws.amazon.com/ec2/amd/) |
+| AWS AMD-Based Instances | [https://aws.amazon.com/ec2/amd/](https://aws.amazon.com/ec2/amd/) |
 
 ---
