@@ -337,6 +337,5 @@ By adopting AMD instances where appropriate, organizations can improve infrastru
 | Reference                            | Link                                                                                                                                                                                                                               |
 | ------------------------------------ | ----------------------------------- |
 | AWS AMD-Based Instances | [https://aws.amazon.com/ec2/amd/](https://aws.amazon.com/ec2/amd/) |
-| AWS AMD-Based Instances | [https://aws.amazon.com/ec2/amd/](https://aws.amazon.com/ec2/amd/) |
 
 ---
